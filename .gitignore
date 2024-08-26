@@ -1,0 +1,12 @@
+node_modules
+dist
+settings.json
+yarn-error.log
+.vscode
+
+*.log
+*.log.*
+
+dist/
+
+**/.DS_Store

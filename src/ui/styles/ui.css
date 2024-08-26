@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+  width: auto;
+  height: auto;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 16px 20px;
+  gap: 16px;
+
+  background: #ffffff;
+}
